@@ -1,1 +1,8 @@
-[{"producto": "Mouse de Cali", "precio": 19.99, "peso_gramos": 150, "video": "rosan/videos/video1.mp4"}]
+[
+{
+"id": 1,
+"name": "Rosa de Cali",
+"price": "19.99",
+"video": "videos/tu-video.mp4"
+}
+]
